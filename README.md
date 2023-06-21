@@ -1,8 +1,6 @@
 # Graph
 Graph - generate and analyze graphs
 
-![obraz](https://github.com/Anna3001/Graph/assets/110662890/4325dc95-ec52-4fe2-809c-087bd4d72953)
-
 ![obraz](https://github.com/Anna3001/Graph/assets/110662890/803f58e5-9a7f-42a3-b139-50e19beab242)
 
 ![obraz](https://github.com/Anna3001/Graph/assets/110662890/93fc5dc8-fd42-4e9e-a2f9-d15609a5e01b)
